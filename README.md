@@ -12,3 +12,11 @@ This repository contains datasets collected using [AutoFAQ](https://github.com/A
 |[Covid-19](fa/covid.json)|16|304|184|60%|
 |[Dental](fa/dental.json)|33|280|224|80%|
 |[General](fa/general.json)|1009|42310|21030|49%|
+
+### English FAQ datasets
+
+|Title|Pages|Found QA Pairs|Extracted QA Pairs|Ratio|
+|----|----|----|----|----|
+|[Covid](en/covid.json)|4|833|630|75%|
+|[Dental](en/dental.json)|42|905|672|74%|
+|[General](en/general.json)|1016|35905|19859|55%|
